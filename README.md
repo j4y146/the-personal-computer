@@ -1,2 +1,1 @@
-## The Personal Computer
-This website is a NHD project going over the personal computer and its impacts.
+The personal computer was a revolutionary invention that changed the world, for better or for worse.
