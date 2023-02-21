@@ -1,3 +1,4 @@
-theme: jekyll
+remote_theme: benbalter/retlab
+markdown: kramdown
 title: The Personal Computer
 description: This website is a NHD project going over the personal computer and its impacts.
