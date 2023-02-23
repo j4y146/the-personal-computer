@@ -5,5 +5,5 @@ The first personal "computer" was the technically the Altair 8800 which was basi
 #### Benefits of the personal computer:
 
 #### Annotated Bibliography:
-[a relative link](annotated_bibliography.md)
+[Click Here](annotated_bibliography.md)
 
