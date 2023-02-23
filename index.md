@@ -1,6 +1,5 @@
 #### Homepage
 
 
-#### Annotated Bibliography
-[Click Here](annotated_bibliography.md)
+[Annotated Bibliography](annotated_bibliography.md)
 
