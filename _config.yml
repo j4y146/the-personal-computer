@@ -1,4 +1,4 @@
-theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 markdown: kramdown
 title: The PC
 description: This website is a NHD project going over the personal computer and its impacts.
