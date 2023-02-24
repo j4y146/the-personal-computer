@@ -1,4 +1,4 @@
-[Home](index.md)|[Benefits](benefits.md)|[Annotated Bibliography](annotated_bibliography.md)|
+[Home](index.md)|[Benefits](benefits.md)|[Annotated Bibliography](annotated_bibliography.md)
 ### Annotated Bibliography
 
 The Apple II computer system, first introduced in 1977 [Photograph]. (2001). J. S. Baughman, V. Bondi, R. Layman, T. McConnell, & V. Tompkins (Eds.), American Decades (Vol. 8). Gale. https://link.gale.com/apps/doc/PC3468388027/SUIC?u=bcps&sid=bookmark-SUIC&xid=c1b176d9
