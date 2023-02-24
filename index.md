@@ -1,3 +1,4 @@
 |[Home](index.md)||[Benefits](benefits.md)||[Annotated Bibliography](annotated_bibliography.md)|
 ### Homepage
 > This website will take a glance at the rich history of the personal computer, including when it was "invented" to how it helped and still helps us today.
+![Apple II Computer](appleII.jpg)
