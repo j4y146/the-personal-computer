@@ -1,4 +1,5 @@
 [Home](index.md)|[Benefits](benefits.md)|[Annotated Bibliography](annotated_bibliography.md)|
+### Annotated Bibliography
 
 The Apple II computer system, first introduced in 1977 [Photograph]. (2001). J. S. Baughman, V. Bondi, R. Layman, T. McConnell, & V. Tompkins (Eds.), American Decades (Vol. 8). Gale. https://link.gale.com/apps/doc/PC3468388027/SUIC?u=bcps&sid=bookmark-SUIC&xid=c1b176d9
 "The Apple II Computer System, First Introduced in 1977" is a primary source photograph from Gale. The photograph shows the two founders of Apple, Steve Jobs and Steve Wozniak presenting/unveiling the Apple II personal computer in 1977.
