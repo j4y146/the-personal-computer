@@ -6,7 +6,7 @@
     /* Reset styles */
     list-style-type: none;
     margin: 0;
-    padding: 0 0 0.5rem 0;
+    padding: 10px 50px 20px;
 }
 
 .split-navigation__item {
