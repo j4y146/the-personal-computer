@@ -26,6 +26,8 @@ img{
     margin: auto;
     display: block;
     width: 50%;
+    border-style: hidden;
+    border-radius: 8px;
 }
 
 .image{
