@@ -21,15 +21,13 @@ img{
     margin: auto;
     display: block;
     width: 50%;
-    padding: 20px;
     border-radius: 6%;
+    padding: 15px;
 }
 
 .image{
     display: flex;
     justify-content: center;
-    padding: 20px;
-    border-radius: 6%;
 }
 
 .container{
