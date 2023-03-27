@@ -17,6 +17,11 @@ a{
     color: #fff;
 }
 
+h4{
+    padding: 10;
+    text-align: center;
+}
+
 img{
     margin: auto;
     display: block;
