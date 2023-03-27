@@ -22,6 +22,10 @@ a{
     color: #fff;
 }
 
+h4{
+    text-align: center;
+}
+
 img{
     margin: auto;
     display: block;
