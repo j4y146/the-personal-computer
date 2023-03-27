@@ -24,6 +24,7 @@ img{
 .container{
     max-width: 1100px;
     margin:auto;
+    align-content: center;
 }
 
 .lead{
@@ -93,16 +94,24 @@ img{
 .showcase-content{
     padding-top: 170px;
     color: #333;
+    align-content: center;
 }
 
 .showcase-content h2{
    font-size: 60px;
    line-height: 1.9em;
+    align-content: center;
  }
 
  .showcase-content p{
     font-size: 20px;
     margin-bottom: 20px;
+     align-content: center;
+ }
+
+.showcase-content img{
+    width: 55%;
+    align-content: center;
  }
 
  .showcase-content .btn:hover{
@@ -110,6 +119,7 @@ img{
     border: none;
     color:#fff;
     transition: all 0.3s;
+    align-content: center;
  }
 
 /* About Section */
